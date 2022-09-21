@@ -1,0 +1,54 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p.p2 {
+    font-family: 'Suez One', serif;     
+    direction: rtl;
+    text-align: center;
+}
+
+div {
+    margin: auto;
+    width: 1200px;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(133, 133, 133);
+    border-collapse: collapse;
+
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    background-color: rgb(190, 189, 189);
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+}
+
+button {
+    margin: 5px;
+    font-size: 30px;
+    width: 50px;
+}
+
+body {
+    background-color: bisque;
+}
